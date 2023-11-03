@@ -46,6 +46,10 @@
     justify-content: center;
 }
 
-.second{
+.second-score{
+    margin-top: 10px;
+}
+
+.second-time{
     margin-top: 10px;
 }
